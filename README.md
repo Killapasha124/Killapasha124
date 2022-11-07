@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JavaScritp, TypeScript, React 
 - 💞️ I’m looking to collaborate on to interesting large companies)
-- 📫 How to reach me email: folitarik.pasha@yandex.ru
+- 📫 How to reach me Email: folitarik.pasha@yandex.ru or Telegram: @Killabeatsprod 
 
 <!---
 Killapasha124/Killapasha124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
