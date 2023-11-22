@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Killapasha124
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScritp, TypeScript, React 
+- 🌱 I’m currently learning JavaScrit.
 - 💞️ I’m looking to collaborate on to interesting large companies)
 - 📫 How to reach me Email: folitarik.pasha@yandex.ru or Telegram: @Killabeatsprod 
 
